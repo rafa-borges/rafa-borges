@@ -1,10 +1,9 @@
 ### Hey, I'm Rafa from Alella (Barcelona)
 
-I am an Engineering Director at Glovo leading the Customer Growth cluster.
+I am an Engineering Director at Glovo leading the Logistics organization.
 
-- We are currently building a whole set of new features to increase the reach of the Glovo app
-- I enjoy creating a good working atmosphere for the team so expect me cracking jokes every now and then (yes even bad ones)
+- At Logistics, we ensure that all orders get delivered fast, efficiently and to expectations of all type of users
+- I enjoy creating a good working atmosphere for the teams so expect me cracking jokes every now and then (even bad ones)
 - I used to be a backend engineer and I am into software engineering and architecture topics
-- We are building new teams in Barcelona and Warsaw so contact me if you are interest in joining Glovo
 - I mostly read code here in GitHub, that is why my contributions are sporadic
-- On my spare time, besides playing padel, I am learning Swift just because it is fun
+- On my spare time, besides playing padel, I am learning Swift and TypeScript just because it is fun
